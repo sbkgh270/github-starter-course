@@ -1,3 +1,4 @@
+Aug. 25, 2026
 # :wave: The Basics of GitHub 
 
 ## 🤓 Course overview and learning outcomes 
